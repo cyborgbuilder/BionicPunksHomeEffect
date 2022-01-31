@@ -1,0 +1,44 @@
+.containerThree{
+    height: 13vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapNav{
+    width: 95%;
+    border: 1px solid white;
+    display: flex;
+}
+
+.logoNav{
+    width: 10%;
+    height: 100%;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logoNav img{
+    width: 50%;
+}
+
+.linksNav{
+    width: 80%;
+    height: 100%;
+    border-right: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    
+}
+
+.linksNav p{
+    font-size: 26px;
+    margin: 0 35px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
